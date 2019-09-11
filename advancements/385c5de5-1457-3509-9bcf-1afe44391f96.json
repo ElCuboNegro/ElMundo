@@ -531,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2019-09-11 15:06:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-17 12:54:02 -0500"
@@ -962,10 +968,12 @@
       "minecraft:forest": "2019-08-03 19:28:08 -0500",
       "minecraft:mountains": "2019-08-17 16:51:08 -0500",
       "minecraft:taiga": "2019-08-02 19:40:45 -0500",
+      "minecraft:desert_hills": "2019-09-11 15:00:58 -0500",
       "minecraft:taiga_hills": "2019-08-03 19:30:20 -0500",
       "minecraft:desert": "2019-08-17 20:53:22 -0500",
       "minecraft:birch_forest": "2019-08-17 13:28:54 -0500",
       "minecraft:warm_ocean": "2019-09-10 20:53:06 -0500",
+      "minecraft:deep_lukewarm_ocean": "2019-09-11 14:52:35 -0500",
       "minecraft:beach": "2019-08-28 22:09:11 -0500",
       "minecraft:dark_forest": "2019-08-02 20:45:30 -0500",
       "minecraft:river": "2019-08-02 19:40:36 -0500",
@@ -974,6 +982,7 @@
       "minecraft:wooded_mountains": "2019-08-17 16:53:47 -0500",
       "minecraft:wooded_hills": "2019-08-02 19:36:53 -0500",
       "minecraft:stone_shore": "2019-08-19 00:54:46 -0500",
+      "minecraft:mushroom_field_shore": "2019-09-11 15:23:49 -0500",
       "minecraft:swamp": "2019-08-02 20:45:45 -0500",
       "minecraft:savanna": "2019-08-17 20:53:30 -0500",
       "minecraft:plains": "2019-08-02 19:39:33 -0500"
